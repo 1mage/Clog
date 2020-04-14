@@ -6,3 +6,4 @@ Notes and logs.
 
 [codeql golang 实践](https://github.com/muzai/Clog/tree/master/codeql/codeql-golang)
 
+[codeql c 实践](https://github.com/muzai/Clog/tree/master/codeql/codeql-c)
