@@ -14,7 +14,8 @@ apk = 压缩包 + 签名
 对apk的介绍到此结束。
 
 ## 关于apktool
-[apktool](https://github.com/iBotPeaches/Apktool)是一个开源的apk逆向工具，用到本文中介绍的攻击过程几乎和逆向无关，只需要：
+[apktool](https://github.com/iBotPeaches/Apktool)是一个开源的apk逆向工具，用到本文中介绍的攻击过程几乎和逆向无关，只需要：  
+
 解压
 ```
 java -jar apktool.jar d ...
